@@ -1,11 +1,12 @@
 {
-  "homepage": "https://Ayansaxena24.github.io/Keeper-App-3",
+  "homepage": "https://Ayansaxena24.github.io/Keeper-Notes-App",
   "name": "keeper-part-3-starting",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "gh-pages": "^4.0.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "3.2.0"
